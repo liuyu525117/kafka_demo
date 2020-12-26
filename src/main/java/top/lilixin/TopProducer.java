@@ -63,7 +63,6 @@ public class TopProducer {
 	 * �����������.
 	 *
 	 * @param topic
-	 *            ����
 	 * @param msg
 	 *            the msg
 	 * @return the string
