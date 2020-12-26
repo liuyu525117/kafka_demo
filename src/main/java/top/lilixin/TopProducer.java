@@ -20,7 +20,6 @@ import kafka.producer.ProducerConfig;
 /**
  * @Project: kafka
  * @Author: lilixin
- * @Date: 2016��8��16��
  * @Copyright: 2016 www.lilixin.top Inc. All rights reserved.
  */
 public class TopProducer {
